@@ -1,0 +1,682 @@
+[
+  {
+    "word": "qatelghii",
+    "lettersNum": 8,
+    "translation": "arctic fox"
+  },
+  {
+    "word": "aghveq",
+    "lettersNum": 6,
+    "translation": "whale"
+  },
+  {
+    "word": "siluk",
+    "lettersNum": 5,
+    "translation": "feather"
+  },
+  {
+    "word": "kiti",
+    "lettersNum": 4,
+    "translation": "cat"
+  },
+  {
+    "word": "yugayu",
+    "lettersNum": 6,
+    "translation": "loon"
+  },
+  {
+    "word": "aqavzik",
+    "lettersNum": 7,
+    "translation": "cloudberry"
+  },
+  {
+    "word": "suughaq",
+    "lettersNum": 7,
+    "translation": "blueberry"
+  },
+  {
+    "word": "uqfik",
+    "lettersNum": 5,
+    "translation": "tree"
+  },
+  {
+    "word": "ighu",
+    "lettersNum": 4,
+    "translation": "leg"
+  },
+  {
+    "word": "iya",
+    "lettersNum": 3,
+    "translation": "eye"
+  },
+  {
+    "word": "iigga",
+    "lettersNum": 5,
+    "translation": "hand"
+  },
+  {
+    "word": "qaneq",
+    "lettersNum": 5,
+    "translation": "mouth"
+  },
+  {
+    "word": "naasquq",
+    "lettersNum": 7,
+    "translation": "head"
+  },
+  {
+    "word": "tekranpak",
+    "lettersNum": 9,
+    "translation": "strong person"
+  },
+  {
+    "word": "ighsaquq",
+    "lettersNum": 8,
+    "translation": "heart"
+  },
+  {
+    "word": "aqnighneq",
+    "lettersNum": 9,
+    "translation": "illness"
+  },
+  {
+    "word": "keneq",
+    "lettersNum": 5,
+    "translation": "light"
+  },
+  {
+    "word": "apa",
+    "lettersNum": 3,
+    "translation": "grandfather"
+  },
+  {
+    "word": "ata",
+    "lettersNum": 3,
+    "translation": "father"
+  },
+  {
+    "word": "nengyuq",
+    "lettersNum": 7,
+    "translation": "grandmother"
+  },
+  {
+    "word": "estugaq",
+    "lettersNum": 7,
+    "translation": "store"
+  },
+  {
+    "word": "naa",
+    "lettersNum": 3,
+    "translation": "mother"
+  },
+  {
+    "word": "panik",
+    "lettersNum": 5,
+    "translation": "daughter"
+  },
+  {
+    "word": "ighneq",
+    "lettersNum": 6,
+    "translation": "son"
+  },
+  {
+    "word": "yuk",
+    "lettersNum": 3,
+    "translation": "person"
+  },
+  {
+    "word": "yavlu",
+    "lettersNum": 5,
+    "translation": "sweetheart"
+  },
+  {
+    "word": "taghnughhaq",
+    "lettersNum": 11,
+    "translation": "child"
+  },
+  {
+    "word": "amik",
+    "lettersNum": 4,
+    "translation": "door"
+  },
+  {
+    "word": "mangteghaq",
+    "lettersNum": 10,
+    "translation": "house"
+  },
+  {
+    "word": "qemtaq",
+    "lettersNum": 6,
+    "translation": "attic, upper level"
+  },
+  {
+    "word": "akin",
+    "lettersNum": 4,
+    "translation": "pillow"
+  },
+  {
+    "word": "gguta",
+    "lettersNum": 5,
+    "translation": "tooth"
+  },
+  {
+    "word": "kanti",
+    "lettersNum": 5,
+    "translation": "candy"
+  },
+  {
+    "word": "nasaperaq",
+    "lettersNum": 9,
+    "translation": "hat"
+  },
+  {
+    "word": "atkuk",
+    "lettersNum": 5,
+    "translation": "parka"
+  },
+  {
+    "word": "naten",
+    "lettersNum": 5,
+    "translation": "how?"
+  },
+  {
+    "word": "piluguk",
+    "lettersNum": 7,
+    "translation": "clothing"
+  },
+  {
+    "word": "qulligek",
+    "lettersNum": 8,
+    "translation": "pants"
+  },
+  {
+    "word": "kamek",
+    "lettersNum": 5,
+    "translation": "skin-boot"
+  },
+  {
+    "word": "sivuneq",
+    "lettersNum": 7,
+    "translation": "ancestor"
+  },
+  {
+    "word": "para",
+    "lettersNum": 4,
+    "translation": "butter"
+  },
+  {
+    "word": "unaami",
+    "lettersNum": 6,
+    "translation": "tomorrow"
+  },
+  {
+    "word": "akugaaq",
+    "lettersNum": 7,
+    "translation": "several days ago"
+  },
+  {
+    "word": "ighivgaq",
+    "lettersNum": 8,
+    "translation": "yesterday"
+  },
+  {
+    "word": "qanlengukun",
+    "lettersNum": 11,
+    "translation": "recently"
+  },
+  {
+    "word": "quunpeng",
+    "lettersNum": 8,
+    "translation": "always"
+  },
+  {
+    "word": "maaten",
+    "lettersNum": 6,
+    "translation": "now"
+  },
+  {
+    "word": "sivukun",
+    "lettersNum": 7,
+    "translation": "at first"
+  },
+  {
+    "word": "taaghta",
+    "lettersNum": 7,
+    "translation": "doctor"
+  },
+  {
+    "word": "tanem",
+    "lettersNum": 5,
+    "translation": "finally"
+  },
+  {
+    "word": "taagken",
+    "lettersNum": 7,
+    "translation": "and then"
+  },
+  {
+    "word": "avenaq",
+    "lettersNum": 6,
+    "translation": "energetic person"
+  },
+  {
+    "word": "amsakelghii",
+    "lettersNum": 11,
+    "translation": "someone small"
+  },
+  {
+    "word": "angvigalghii",
+    "lettersNum": 12,
+    "translation": "someone tall"
+  },
+  {
+    "word": "anglinghhaq",
+    "lettersNum": 11,
+    "translation": "someone young"
+  },
+  {
+    "word": "aangelghii",
+    "lettersNum": 10,
+    "translation": "big"
+  },
+  {
+    "word": "iknaquq",
+    "lettersNum": 7,
+    "translation": "(s)he's strong"
+  },
+  {
+    "word": "nutaghaq",
+    "lettersNum": 8,
+    "translation": "new"
+  },
+  {
+    "word": "utuqa",
+    "lettersNum": 5,
+    "translation": "old"
+  },
+  {
+    "word": "puqla",
+    "lettersNum": 5,
+    "translation": "warmth"
+  },
+  {
+    "word": "piniqumtaaq",
+    "lettersNum": 11,
+    "translation": "loved one"
+  },
+  {
+    "word": "seghleq",
+    "lettersNum": 7,
+    "translation": "something bad, wrong"
+  },
+  {
+    "word": "pinighnaq",
+    "lettersNum": 9,
+    "translation": "nice thing, person"
+  },
+  {
+    "word": "kurgela",
+    "lettersNum": 7,
+    "translation": "cheerful person"
+  },
+  {
+    "word": "umyugaq",
+    "lettersNum": 7,
+    "translation": "mind"
+  },
+  {
+    "word": "kavilnguq",
+    "lettersNum": 9,
+    "translation": "red color"
+  },
+  {
+    "word": "kavimsiiq",
+    "lettersNum": 9,
+    "translation": "orange color"
+  },
+  {
+    "word": "kavighzik",
+    "lettersNum": 9,
+    "translation": "pink color"
+  },
+  {
+    "word": "esghavyu",
+    "lettersNum": 8,
+    "translation": "grey color"
+  },
+  {
+    "word": "sumeq",
+    "lettersNum": 5,
+    "translation": "idea, thought"
+  },
+  {
+    "word": "sunanguq",
+    "lettersNum": 8,
+    "translation": "I hope so"
+  },
+  {
+    "word": "tagneq",
+    "lettersNum": 6,
+    "translation": "black thing"
+  },
+  {
+    "word": "sungaghyuk",
+    "lettersNum": 10,
+    "translation": "blue or green color"
+  },
+  {
+    "word": "tepa",
+    "lettersNum": 4,
+    "translation": "odor"
+  },
+  {
+    "word": "pennaq",
+    "lettersNum": 6,
+    "translation": "cliff"
+  },
+  {
+    "word": "igaghta",
+    "lettersNum": 7,
+    "translation": "teacher"
+  },
+  {
+    "word": "apalluq",
+    "lettersNum": 7,
+    "translation": "reason, cause"
+  },
+  {
+    "word": "arekull",
+    "lettersNum": 7,
+    "translation": "already"
+  },
+  {
+    "word": "qivagnaq",
+    "lettersNum": 8,
+    "translation": "bold person"
+  },
+  {
+    "word": "naagu",
+    "lettersNum": 5,
+    "translation": "where is..?"
+  },
+  {
+    "word": "nafuqaa",
+    "lettersNum": 7,
+    "translation": "he feels broken-hearted over it"
+  },
+  {
+    "word": "kiighwyaq",
+    "lettersNum": 9,
+    "translation": "aurora"
+  },
+  {
+    "word": "yeqay",
+    "lettersNum": 5,
+    "translation": "let's do that"
+  },
+  {
+    "word": "kiik",
+    "lettersNum": 4,
+    "translation": "summer"
+  },
+  {
+    "word": "uksuq",
+    "lettersNum": 5,
+    "translation": "winter"
+  },
+  {
+    "word": "uksaaq",
+    "lettersNum": 6,
+    "translation": "autumn"
+  },
+  {
+    "word": "upenghaq",
+    "lettersNum": 8,
+    "translation": "spring"
+  },
+  {
+    "word": "aghneq",
+    "lettersNum": 6,
+    "translation": "day"
+  },
+  {
+    "word": "unaaq",
+    "lettersNum": 5,
+    "translation": "morning"
+  },
+  {
+    "word": "unuk",
+    "lettersNum": 4,
+    "translation": "night"
+  },
+  {
+    "word": "aghtuq",
+    "lettersNum": 6,
+    "translation": "dawn"
+  },
+  {
+    "word": "mamlek",
+    "lettersNum": 6,
+    "translation": "darkness"
+  },
+  {
+    "word": "ateq",
+    "lettersNum": 4,
+    "translation": "name"
+  },
+  {
+    "word": "nallukunga",
+    "lettersNum": 10,
+    "translation": "I don't know"
+  },
+  {
+    "word": "nuna",
+    "lettersNum": 4,
+    "translation": "land"
+  },
+  {
+    "word": "siqineq",
+    "lettersNum": 7,
+    "translation": "sun"
+  },
+  {
+    "word": "qayuq",
+    "lettersNum": 5,
+    "translation": "tea"
+  },
+  {
+    "word": "tanqiq",
+    "lettersNum": 6,
+    "translation": "moon, month"
+  },
+  {
+    "word": "qilak",
+    "lettersNum": 5,
+    "translation": "sky"
+  },
+  {
+    "word": "eslalluk",
+    "lettersNum": 8,
+    "translation": "rain"
+  },
+  {
+    "word": "nanqek",
+    "lettersNum": 6,
+    "translation": "stomach"
+  },
+  {
+    "word": "tunak",
+    "lettersNum": 5,
+    "translation": "palm"
+  },
+  {
+    "word": "anuqa",
+    "lettersNum": 5,
+    "translation": "wind"
+  },
+  {
+    "word": "supuk",
+    "lettersNum": 5,
+    "translation": "cold air draft"
+  },
+  {
+    "word": "umegneq",
+    "lettersNum": 7,
+    "translation": "blizzard"
+  },
+  {
+    "word": "vuuneq",
+    "lettersNum": 6,
+    "translation": "ice jam"
+  },
+  {
+    "word": "siku",
+    "lettersNum": 4,
+    "translation": "ice"
+  },
+  {
+    "word": "anigu",
+    "lettersNum": 5,
+    "translation": "snow (on ground)"
+  },
+  {
+    "word": "qanik",
+    "lettersNum": 5,
+    "translation": "falling snow"
+  },
+  {
+    "word": "kiiwek",
+    "lettersNum": 6,
+    "translation": "river"
+  },
+  {
+    "word": "kilgaa",
+    "lettersNum": 6,
+    "translation": "wilderness"
+  },
+  {
+    "word": "maqalghii",
+    "lettersNum": 9,
+    "translation": "warm"
+  },
+  {
+    "word": "imaq",
+    "lettersNum": 4,
+    "translation": "sea, ocean"
+  },
+  {
+    "word": "ineghla",
+    "lettersNum": 7,
+    "translation": "friend"
+  },
+  {
+    "word": "meq",
+    "lettersNum": 3,
+    "translation": "water"
+  },
+  {
+    "word": "mesak",
+    "lettersNum": 5,
+    "translation": "bog"
+  },
+  {
+    "word": "pupik",
+    "lettersNum": 5,
+    "translation": "skin sore"
+  },
+  {
+    "word": "naayvaq",
+    "lettersNum": 7,
+    "translation": "lake"
+  },
+  {
+    "word": "kiiwek",
+    "lettersNum": 6,
+    "translation": "river"
+  },
+  {
+    "word": "mepik",
+    "lettersNum": 5,
+    "translation": "fresh water"
+  },
+  {
+    "word": "qasquviik",
+    "lettersNum": 9,
+    "translation": "care"
+  },
+  {
+    "word": "nanuq",
+    "lettersNum": 5,
+    "translation": "polar bear"
+  },
+  {
+    "word": "naken",
+    "lettersNum": 5,
+    "translation": "from where"
+  },
+  {
+    "word": "esnaq",
+    "lettersNum": 5,
+    "translation": "beach"
+  },
+  {
+    "word": "uyghak",
+    "lettersNum": 6,
+    "translation": "stone"
+  },
+  {
+    "word": "ayveq",
+    "lettersNum": 5,
+    "translation": "walrus"
+  },
+  {
+    "word": "maklak",
+    "lettersNum": 6,
+    "translation": "bearded seal"
+  },
+  {
+    "word": "neghsaq",
+    "lettersNum": 7,
+    "translation": "seal"
+  },
+  {
+    "word": "naten",
+    "lettersNum": 5,
+    "translation": "how?"
+  },
+  {
+    "word": "ilagaan",
+    "lettersNum": 7,
+    "translation": "song"
+  },
+  {
+    "word": "santilleq",
+    "lettersNum": 8,
+    "translation": "week"
+  },
+  {
+    "word": "qamiyek",
+    "lettersNum": 7,
+    "translation": "sled"
+  },
+  {
+    "word": "qayaq",
+    "lettersNum": 5,
+    "translation": "kayak"
+  },
+  {
+    "word": "entaqun",
+    "lettersNum": 7,
+    "translation": "maybe"
+  },
+  {
+    "word": "enta",
+    "lettersNum": 4,
+    "translation": "come on!"
+  },
+  {
+    "word": "saguyaq",
+    "lettersNum":7,
+    "translation": "skin drum"
+  }
+]
