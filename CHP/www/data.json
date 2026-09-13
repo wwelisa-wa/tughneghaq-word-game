@@ -1,0 +1,672 @@
+[
+  {
+    "word": "ӄатылӷи",
+    "lettersNum": 7,
+    "translation": "песец"
+  },
+  {
+    "word": "аӷвыӄ",
+    "lettersNum": 5,
+    "translation": "кит"
+  },
+  {
+    "word": "силюк",
+    "lettersNum": 5,
+    "translation": "перо"
+  },
+  {
+    "word": "пуси",
+    "lettersNum": 4,
+    "translation": "кошка"
+  },
+  {
+    "word": "югўаю",
+    "lettersNum": 5,
+    "translation": "гагара"
+  },
+  {
+    "word": "аӄавзиӄ",
+    "lettersNum": 7,
+    "translation": "морошка"
+  },
+  {
+    "word": "сюӷаӄ",
+    "lettersNum": 5,
+    "translation": "голубика"
+  },
+  {
+    "word": "уӄфик",
+    "lettersNum": 5,
+    "translation": "лес"
+  },
+  {
+    "word": "иӷу",
+    "lettersNum": 3,
+    "translation": "нога"
+  },
+  {
+    "word": "ия",
+    "lettersNum": 2,
+    "translation": "глаз"
+  },
+  {
+    "word": "ииха",
+    "lettersNum": 4,
+    "translation": "рука"
+  },
+  {
+    "word": "ӄаныӄ",
+    "lettersNum": 5,
+    "translation": "рот"
+  },
+  {
+    "word": "насӄуӄ",
+    "lettersNum": 6,
+    "translation": "голова"
+  },
+  {
+    "word": "югусиӄ",
+    "lettersNum": 6,
+    "translation": "тело"
+  },
+  {
+    "word": "иӽсяӄуӄ",
+    "lettersNum": 7,
+    "translation": "сердце"
+  },
+  {
+    "word": "аӄниӄ",
+    "lettersNum": 5,
+    "translation": "болезнь"
+  },
+  {
+    "word": "кияӷныӄ",
+    "lettersNum": 7,
+    "translation": "жизнь"
+  },
+  {
+    "word": "аапа",
+    "lettersNum": 4,
+    "translation": "дедушка"
+  },
+  {
+    "word": "атаа",
+    "lettersNum": 4,
+    "translation": "папа"
+  },
+  {
+    "word": "ныӈьюӄ",
+    "lettersNum": 6,
+    "translation": "бабушка"
+  },
+  {
+    "word": "туӈӄаӄ",
+    "lettersNum": 6,
+    "translation": "близкий человек"
+  },
+  {
+    "word": "наа",
+    "lettersNum": 3,
+    "translation": "мама"
+  },
+  {
+    "word": "паник",
+    "lettersNum": 5,
+    "translation": "дочка"
+  },
+  {
+    "word": "иӷныӄ",
+    "lettersNum": 5,
+    "translation": "сын"
+  },
+  {
+    "word": "юк",
+    "lettersNum": 2,
+    "translation": "человек"
+  },
+  {
+    "word": "юпик",
+    "lettersNum": 4,
+    "translation": "эскимос"
+  },
+  {
+    "word": "таӷнуӽаӄ",
+    "lettersNum": 8,
+    "translation": "ребенок"
+  },
+  {
+    "word": "амик",
+    "lettersNum": 4,
+    "translation": "дверь"
+  },
+  {
+    "word": "гуйгу",
+    "lettersNum": 5,
+    "translation": "дом"
+  },
+  {
+    "word": "ӄымтаӄ",
+    "lettersNum": 6,
+    "translation": "потолок"
+  },
+  {
+    "word": "акин",
+    "lettersNum": 4,
+    "translation": "подушка"
+  },
+  {
+    "word": "хлъюк",
+    "lettersNum": 5,
+    "translation": "костер"
+  },
+  {
+    "word": "канти",
+    "lettersNum": 5,
+    "translation": "конфета"
+  },
+  {
+    "word": "насяпыраӄ",
+    "lettersNum": 9,
+    "translation": "шапка"
+  },
+  {
+    "word": "аткук",
+    "lettersNum": 5,
+    "translation": "кухлянка"
+  },
+  {
+    "word": "насялык",
+    "lettersNum": 7,
+    "translation": "куртка"
+  },
+  {
+    "word": "пилюгук",
+    "lettersNum": 7,
+    "translation": "одежда"
+  },
+  {
+    "word": "ӄулъигык",
+    "lettersNum": 8,
+    "translation": "штаны"
+  },
+  {
+    "word": "камык",
+    "lettersNum": 5,
+    "translation": "обувь"
+  },
+  {
+    "word": "туныӽӄаӄ",
+    "lettersNum": 8,
+    "translation": "подарок"
+  },
+  {
+    "word": "вувалъя",
+    "lettersNum": 7,
+    "translation": "праздник"
+  },
+  {
+    "word": "айӈанана",
+    "lettersNum": 8,
+    "translation": "музыка"
+  },
+  {
+    "word": "акугаӄ",
+    "lettersNum": 6,
+    "translation": "позавчера"
+  },
+  {
+    "word": "иӷивгаӄ",
+    "lettersNum": 7,
+    "translation": "вчера"
+  },
+  {
+    "word": "ӄанлыӈакун",
+    "lettersNum": 10,
+    "translation": "недавно"
+  },
+  {
+    "word": "ӄунпыӈ",
+    "lettersNum": 6,
+    "translation": "всегда"
+  },
+  {
+    "word": "маатын",
+    "lettersNum": 6,
+    "translation": "сейчас"
+  },
+  {
+    "word": "сивукун",
+    "lettersNum": 7,
+    "translation": "сначала"
+  },
+  {
+    "word": "тагани",
+    "lettersNum": 6,
+    "translation": "давно"
+  },
+  {
+    "word": "таным",
+    "lettersNum": 5,
+    "translation": "опять"
+  },
+  {
+    "word": "тахкын",
+    "lettersNum": 6,
+    "translation": "затем"
+  },
+  {
+    "word": "авыналӷи",
+    "lettersNum": 8,
+    "translation": "ловкий"
+  },
+  {
+    "word": "амсякылӷи",
+    "lettersNum": 9,
+    "translation": "низкий"
+  },
+  {
+    "word": "аӈвигалӷи",
+    "lettersNum": 9,
+    "translation": "высокий"
+  },
+  {
+    "word": "аӈлинӽаӄ",
+    "lettersNum": 8,
+    "translation": "молодой"
+  },
+  {
+    "word": "аӈылӷи",
+    "lettersNum": 6,
+    "translation": "большой"
+  },
+  {
+    "word": "икнаӄылӷи",
+    "lettersNum": 9,
+    "translation": "сильный"
+  },
+  {
+    "word": "нутаӷаӄ",
+    "lettersNum": 7,
+    "translation": "новый"
+  },
+  {
+    "word": "утуӄаӄ",
+    "lettersNum": 6,
+    "translation": "ветхий"
+  },
+  {
+    "word": "пагулятуӄаӄ",
+    "lettersNum": 11,
+    "translation": "пыльный"
+  },
+  {
+    "word": "пиниӄумтаӄ",
+    "lettersNum": 10,
+    "translation": "любимый"
+  },
+  {
+    "word": "сыӷлыӄ",
+    "lettersNum": 6,
+    "translation": "плохой"
+  },
+  {
+    "word": "пинилӷи",
+    "lettersNum": 7,
+    "translation": "хороший"
+  },
+  {
+    "word": "кургыля",
+    "lettersNum": 7,
+    "translation": "веселый"
+  },
+  {
+    "word": "умьюгаӄ",
+    "lettersNum": 7,
+    "translation": "характер"
+  },
+  {
+    "word": "кавилӈуӄ",
+    "lettersNum": 8,
+    "translation": "красный"
+  },
+  {
+    "word": "сӽавью",
+    "lettersNum": 6,
+    "translation": "серый"
+  },
+  {
+    "word": "сюлюк",
+    "lettersNum": 5,
+    "translation": "шум ветра"
+  },
+  {
+    "word": "сюӈаӷа",
+    "lettersNum": 6,
+    "translation": "румянец"
+  },
+  {
+    "word": "тагнылӷи",
+    "lettersNum": 8,
+    "translation": "черный"
+  },
+  {
+    "word": "сюӈаӷьюлӷи",
+    "lettersNum": 10,
+    "translation": "голубой"
+  },
+  {
+    "word": "тыпа",
+    "lettersNum": 4,
+    "translation": "запах"
+  },
+  {
+    "word": "пиӄуӄ",
+    "lettersNum": 5,
+    "translation": "говорит"
+  },
+  {
+    "word": "игаӷаӄуӄ",
+    "lettersNum": 8,
+    "translation": "пишет"
+  },
+  {
+    "word": "апатаӄа",
+    "lettersNum": 7,
+    "translation": "советует"
+  },
+  {
+    "word": "араӷаӄуӄ",
+    "lettersNum": 8,
+    "translation": "кричит"
+  },
+  {
+    "word": "ӄияӄуӄ",
+    "lettersNum": 6,
+    "translation": "плачет"
+  },
+  {
+    "word": "налъяӄуӄ",
+    "lettersNum": 8,
+    "translation": "не умеет"
+  },
+  {
+    "word": "сюмӄаӄуӄ",
+    "lettersNum": 8,
+    "translation": "помнит"
+  },
+  {
+    "word": "сиӈаӷаӄа",
+    "lettersNum": 8,
+    "translation": "целует"
+  },
+  {
+    "word": "сӽаӷаӄа",
+    "lettersNum": 7,
+    "translation": "видит"
+  },
+  {
+    "word": "киик",
+    "lettersNum": 4,
+    "translation": "лето"
+  },
+  {
+    "word": "уксюӄ",
+    "lettersNum": 5,
+    "translation": "зима"
+  },
+  {
+    "word": "уксяӄ",
+    "lettersNum": 5,
+    "translation": "осень"
+  },
+  {
+    "word": "упынӷаӄ",
+    "lettersNum": 7,
+    "translation": "весна"
+  },
+  {
+    "word": "аӷныӄ",
+    "lettersNum": 5,
+    "translation": "день"
+  },
+  {
+    "word": "унаӄ",
+    "lettersNum": 4,
+    "translation": "утро"
+  },
+  {
+    "word": "унук",
+    "lettersNum": 4,
+    "translation": "ночь"
+  },
+  {
+    "word": "аӽтаӷаӄ",
+    "lettersNum": 7,
+    "translation": "рассвет"
+  },
+  {
+    "word": "мамлык",
+    "lettersNum": 6,
+    "translation": "темнота"
+  },
+  {
+    "word": "ниӷук",
+    "lettersNum": 5,
+    "translation": "свет"
+  },
+  {
+    "word": "ниӷутун",
+    "lettersNum": 7,
+    "translation": "светло"
+  },
+  {
+    "word": "мамлытун",
+    "lettersNum": 8,
+    "translation": "темно"
+  },
+  {
+    "word": "сиӄиныӄ",
+    "lettersNum": 7,
+    "translation": "солнце"
+  },
+  {
+    "word": "таӷныӷак",
+    "lettersNum": 8,
+    "translation": "тень"
+  },
+  {
+    "word": "танӄиӄ",
+    "lettersNum": 6,
+    "translation": "луна"
+  },
+  {
+    "word": "ӄиляк",
+    "lettersNum": 5,
+    "translation": "небо"
+  },
+  {
+    "word": "ныпсюк",
+    "lettersNum": 6,
+    "translation": "дождь"
+  },
+  {
+    "word": "ӄысиӷаӄ",
+    "lettersNum": 7,
+    "translation": "морось"
+  },
+  {
+    "word": "тулимаӄ",
+    "lettersNum": 7,
+    "translation": "радуга"
+  },
+  {
+    "word": "ануӄа",
+    "lettersNum": 5,
+    "translation": "ветер"
+  },
+  {
+    "word": "сюпуук",
+    "lettersNum": 6,
+    "translation": "сквозняк"
+  },
+  {
+    "word": "умыгныӄ",
+    "lettersNum": 7,
+    "translation": "вьюга"
+  },
+  {
+    "word": "вууныӄ",
+    "lettersNum": 6,
+    "translation": "торосы"
+  },
+  {
+    "word": "сику",
+    "lettersNum": 4,
+    "translation": "лед"
+  },
+  {
+    "word": "анигу",
+    "lettersNum": 5,
+    "translation": "снег"
+  },
+  {
+    "word": "ӄаник",
+    "lettersNum": 5,
+    "translation": "снегопад"
+  },
+  {
+    "word": "кумляныӄ",
+    "lettersNum": 8,
+    "translation": "мороз"
+  },
+  {
+    "word": "маӄатун",
+    "lettersNum": 7,
+    "translation": "тепло"
+  },
+  {
+    "word": "маӄалӷи",
+    "lettersNum": 7,
+    "translation": "теплый"
+  },
+  {
+    "word": "имаӄ",
+    "lettersNum": 4,
+    "translation": "море"
+  },
+  {
+    "word": "каӈиӷаӄ",
+    "lettersNum": 7,
+    "translation": "залив"
+  },
+  {
+    "word": "мыӄ",
+    "lettersNum": 3,
+    "translation": "вода"
+  },
+  {
+    "word": "мысяк",
+    "lettersNum": 5,
+    "translation": "болото"
+  },
+  {
+    "word": "пупик",
+    "lettersNum": 5,
+    "translation": "болячка"
+  },
+  {
+    "word": "наайваӄ",
+    "lettersNum": 7,
+    "translation": "озеро"
+  },
+  {
+    "word": "кииўык",
+    "lettersNum": 6,
+    "translation": "река"
+  },
+  {
+    "word": "мыпик",
+    "lettersNum": 5,
+    "translation": "пресная вода"
+  },
+  {
+    "word": "килга",
+    "lettersNum": 5,
+    "translation": "простор"
+  },
+  {
+    "word": "ӄута",
+    "lettersNum": 4,
+    "translation": "суша"
+  },
+  {
+    "word": "нуна",
+    "lettersNum": 4,
+    "translation": "земля"
+  },
+  {
+    "word": "снаӄ",
+    "lettersNum": 4,
+    "translation": "берег"
+  },
+  {
+    "word": "уйӷак",
+    "lettersNum": 5,
+    "translation": "камень"
+  },
+  {
+    "word": "айвыӄ",
+    "lettersNum": 5,
+    "translation": "морж"
+  },
+  {
+    "word": "маклъяк",
+    "lettersNum": 7,
+    "translation": "лахтак"
+  },
+  {
+    "word": "ныӽсяӄ",
+    "lettersNum": 6,
+    "translation": "нерпа"
+  },
+  {
+    "word": "тукаӄ",
+    "lettersNum": 5,
+    "translation": "танец"
+  },
+  {
+    "word": "иляган",
+    "lettersNum": 6,
+    "translation": "песня"
+  },
+  {
+    "word": "ӄамийык",
+    "lettersNum": 7,
+    "translation": "нарта"
+  },
+  {
+    "word": "аӈьяӄ",
+    "lettersNum": 5,
+    "translation": "байдара"
+  },
+  {
+    "word": "ӄаяӄ",
+    "lettersNum": 4,
+    "translation": "каяк"
+  },
+  {
+    "word": "слъя",
+    "lettersNum": 4,
+    "translation": "вселенная"
+  },
+  {
+    "word": "уяваӄ",
+    "lettersNum": 5,
+    "translation": "даль"
+  },
+  {
+    "word": "сягуяк",
+    "lettersNum": 6,
+    "translation": "бубен"
+  }
+]
